@@ -1,0 +1,5 @@
+name: Subuser
+description: Allows users to create other users based on permissions.
+type: module
+package: User
+core_version_requirement: ^8.8 || ^9
